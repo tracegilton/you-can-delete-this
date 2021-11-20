@@ -11,4 +11,4 @@ layout: default
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% endfor %}
 
-<b>Nice to see ya — I've been here since {{ "now" | date: "%c" }}</b>
+<b>Nice to see ya — I've been here since {{ "now" | date: "%c" }} 🆒</b>
